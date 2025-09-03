@@ -1,0 +1,3 @@
+1. C. React.memo with stable props
+2. B. Preload + define width/height
+3. B. Search bots can see fully rendered HTML
